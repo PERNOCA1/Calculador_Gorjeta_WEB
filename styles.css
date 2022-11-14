@@ -60,3 +60,9 @@ body {
     margin: 30px auto;
     background: var(--primary-color);
 }
+
+#totalTip {
+    font-size: 20px;
+    margin-top: 5px;
+    text-align: center;
+}
